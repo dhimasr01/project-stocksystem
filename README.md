@@ -17,7 +17,7 @@ Market Stock System QBCore
 2) Drag and drop resource into your server files
 3) Run the attached SQL script
 
-#Preview
+# Preview
 ![image](https://github.com/user-attachments/assets/30b19fbd-b07c-40e1-b978-cbaf58968c56)
 
 ![image](https://github.com/user-attachments/assets/d8d30ed4-e252-49e9-be02-ab5165dfb7d2)
