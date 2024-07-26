@@ -1,4 +1,4 @@
-# marketstocksystem
+# Project-Stock
 Market Stock System QBCore
 
 # Dependencies
