@@ -1,7 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local Config = Config or {}
 
--- Fungsi untuk inisialisasi item di database
 local function InitializeItems()
     for itemName, itemData in pairs(Config.Items) do
         MySQL.Async.fetchScalar('SELECT COUNT(*) FROM stocksystem WHERE item = @item', {
@@ -18,7 +17,6 @@ local function InitializeItems()
     end
 end
 
--- Event untuk menangani pembelian item
 RegisterServerEvent('project-stock:buyItem')
 AddEventHandler('project-stock:buyItem', function(data)
     local src = source
@@ -50,7 +48,6 @@ AddEventHandler('project-stock:buyItem', function(data)
     end)
 end)
 
--- Event untuk menangani penjualan item
 RegisterServerEvent('project-stock:sellItem')
 AddEventHandler('project-stock:sellItem', function(data)
     local src = source
@@ -74,7 +71,7 @@ AddEventHandler('project-stock:sellItem', function(data)
     end
 end)
 
--- Event untuk mendapatkan data stok
+
 RegisterServerEvent('project-stock:getStock')
 AddEventHandler('project-stock:getStock', function()
     local src = source
@@ -87,7 +84,7 @@ AddEventHandler('project-stock:getStock', function()
     end)
 end)
 
--- Inisialisasi item di database saat resource dimulai
+
 AddEventHandler('onResourceStart', function(resourceName)
     if GetCurrentResourceName() == resourceName then
         InitializeItems()
