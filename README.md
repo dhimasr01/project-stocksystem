@@ -18,6 +18,9 @@ Market Stock System QBCore
 3) Run the attached SQL script
 
 #Preview
-https://cdn.discordapp.com/attachments/1259494578793218159/1266194130665472050/Screenshot_2024-07-26_071810.png?ex=66a442ad&is=66a2f12d&hm=e29fe3f52db1eb5362900a58be612bfa14324cab5f52dca9fe65f998990ed8d5&
-https://cdn.discordapp.com/attachments/1259494578793218159/1266194131001282621/Screenshot_2024-07-26_071815.png?ex=66a442ad&is=66a2f12d&hm=10e7f89438ad45c9b3be250274b8e8fe609d341539f0475de68d1e64ce90bcda&
-https://cdn.discordapp.com/attachments/1259494578793218159/1266194131261198456/Screenshot_2024-07-26_071818.png?ex=66a442ad&is=66a2f12d&hm=30b4da968145acc81fce7328264b12692bd2f089347ad00694efa406bbaaddc0&
+![image](https://github.com/user-attachments/assets/30b19fbd-b07c-40e1-b978-cbaf58968c56)
+
+![image](https://github.com/user-attachments/assets/d8d30ed4-e252-49e9-be02-ab5165dfb7d2)
+
+![image](https://github.com/user-attachments/assets/ef253fc4-681d-45c9-a3db-9535f1d4b649)
+
