@@ -18,9 +18,5 @@ Market Stock System QBCore
 3) Run the attached SQL script
 
 # Preview
-![image](https://github.com/user-attachments/assets/30b19fbd-b07c-40e1-b978-cbaf58968c56)
-
-![image](https://github.com/user-attachments/assets/d8d30ed4-e252-49e9-be02-ab5165dfb7d2)
-
-![image](https://github.com/user-attachments/assets/ef253fc4-681d-45c9-a3db-9535f1d4b649)
+![image](https://github.com/user-attachments/assets/30b19fbd-b07c-40e1-b978-cbaf58968c56) ![image](https://github.com/user-attachments/assets/d8d30ed4-e252-49e9-be02-ab5165dfb7d2) ![image](https://github.com/user-attachments/assets/ef253fc4-681d-45c9-a3db-9535f1d4b649)
 
